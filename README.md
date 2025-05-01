@@ -1,8 +1,16 @@
-### Fiz esse projeto com base no vídeo `https://www.youtube.com/watch?v=tBweoUiMsDg&t=9187s`
+## 🎬 Clone da Netflix
 
+Este projeto é um **clone da interface da Netflix**, desenvolvido com **React** e **JavaScript**, baseado no vídeo tutorial do canal *Bonieky Lacerda*:  
+📺 [Assista aqui](https://www.youtube.com/watch?v=tBweoUiMsDg&t=9187s)
 
-### É um clone na netflix por API (a api está com alguns problemas, enrão não está 100% os filmes da netlix)! 
+### 🚀 Funcionalidades:
+- Interface inspirada na Netflix
+- Consumo de uma **API de filmes** (os títulos exibidos podem não pertencer à Netflix)
+- Listagem de filmes por categorias
+- Destaque para um filme em destaque na página inicial
+- Layout responsivo
 
-## praticando React :)) 
-
-# 17/11/2021
+### 🛠️ Tecnologias:
+- React
+- JavaScript
+- CSS
